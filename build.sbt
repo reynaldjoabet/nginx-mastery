@@ -1,7 +1,7 @@
 name := "nginx-mastery"
 version := "0.1.0-SNAPSHOT"
 
-scalaVersion := "3.3.3"
+scalaVersion := "3.3.6"
 
 val root = (project in file("."))
 .settings(
